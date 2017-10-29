@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_SCRIPTS\PLAYERMANAGER.cs">
+    <Files>
+      <File FileName="Assets\_SCRIPTS\MainMenuManager.cs" Line="53" Column="4" />
+      <File FileName="Assets\_SCRIPTS\GAMELOGIC.cs" Line="192" Column="31" />
+      <File FileName="Assets\_SCRIPTS\PLAYERMANAGER.cs" Line="17" Column="17" />
+      <File FileName="Assets\_SCRIPTS\ShuffleCards.cs" Line="46" Column="17" />
+      <File FileName="Assets\_SCRIPTS\HandEvaluator.cs" Line="35" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

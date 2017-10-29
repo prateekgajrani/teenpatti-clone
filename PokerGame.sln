@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerGame", "Assembly-CSharp-firstpass.csproj", "{21BFE45D-6329-927B-EBE2-483141FE7E8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerGame", "Assembly-CSharp.csproj", "{24DAC6B8-2A35-9A45-F1AE-4DF6FF401D8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerGame", "Assembly-CSharp-Editor.csproj", "{1150B974-EFE0-48EA-2ADE-55D193BC458A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21BFE45D-6329-927B-EBE2-483141FE7E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21BFE45D-6329-927B-EBE2-483141FE7E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21BFE45D-6329-927B-EBE2-483141FE7E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21BFE45D-6329-927B-EBE2-483141FE7E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24DAC6B8-2A35-9A45-F1AE-4DF6FF401D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24DAC6B8-2A35-9A45-F1AE-4DF6FF401D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24DAC6B8-2A35-9A45-F1AE-4DF6FF401D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24DAC6B8-2A35-9A45-F1AE-4DF6FF401D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1150B974-EFE0-48EA-2ADE-55D193BC458A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1150B974-EFE0-48EA-2ADE-55D193BC458A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1150B974-EFE0-48EA-2ADE-55D193BC458A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1150B974-EFE0-48EA-2ADE-55D193BC458A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

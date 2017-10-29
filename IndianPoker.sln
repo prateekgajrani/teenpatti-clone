@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{122111DD-0C4D-4B1D-CA56-F7DACF66E455}") = "IndianPoker", "Assembly-CSharp-firstpass.csproj", "{A008B385-C34C-D34E-E080-549FA6218CA3}"
+EndProject
+Project("{122111DD-0C4D-4B1D-CA56-F7DACF66E455}") = "IndianPoker", "Assembly-CSharp.csproj", "{24B9D7A3-172F-F7DF-09EB-B799E360B85A}"
+EndProject
+Project("{122111DD-0C4D-4B1D-CA56-F7DACF66E455}") = "IndianPoker", "Assembly-CSharp-Editor.csproj", "{AE8C44EC-8200-57C4-41C4-2B6BED316B47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A008B385-C34C-D34E-E080-549FA6218CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A008B385-C34C-D34E-E080-549FA6218CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A008B385-C34C-D34E-E080-549FA6218CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A008B385-C34C-D34E-E080-549FA6218CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24B9D7A3-172F-F7DF-09EB-B799E360B85A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24B9D7A3-172F-F7DF-09EB-B799E360B85A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24B9D7A3-172F-F7DF-09EB-B799E360B85A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24B9D7A3-172F-F7DF-09EB-B799E360B85A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8C44EC-8200-57C4-41C4-2B6BED316B47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8C44EC-8200-57C4-41C4-2B6BED316B47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8C44EC-8200-57C4-41C4-2B6BED316B47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8C44EC-8200-57C4-41C4-2B6BED316B47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
